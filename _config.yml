@@ -1,5 +1,1 @@
-remote_theme: eecs485staff/primer-spec
-plugins:
-    - jekyll-remote-theme
-
 theme: jekyll-theme-cayman
